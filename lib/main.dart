@@ -6,7 +6,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar (
-          backgroundColor: Color.fromARGB(255, 34, 145, 7),
+          backgroundColor: Color.fromARGB(254, 34, 145, 7),
           centerTitle: true,
           title: Text('Meu Primeiro App')
           ),
@@ -18,7 +18,7 @@ void main() {
                   textDirection: TextDirection.ltr,
                   style: TextStyle(
                     fontSize: 30,
-                    color: Color.fromARGB(255, 34, 145, 7)
+                    color: Color.fromARGB(254, 34, 145, 7)
                   ),
                   ),
               )
